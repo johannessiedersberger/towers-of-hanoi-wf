@@ -1,0 +1,11 @@
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\bin\Debug\HanoiMitWindowsForms.exe.config
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\bin\Debug\HanoiMitWindowsForms.exe
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\bin\Debug\HanoiMitWindowsForms.pdb
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.csprojResolveAssemblyReference.cache
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.Properties.Resources.resources
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.csproj.GenerateResource.Cache
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.csproj.CoreCompileInputs.cache
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.exe
+c:\users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.pdb
+C:\Users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.StackControl.resources
+C:\Users\jsiedersberger\source\repos\HanoiMitWindowsForms\HanoiMitWindowsForms\obj\Debug\HanoiMitWindowsForms.MainForm.resources
