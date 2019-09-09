@@ -6,4 +6,7 @@
 
 - Every turn, the top disc of any base can be placed on top of one of the other two bases, if there is not already a smaller disc there. That means that at each point of the game, the slices on the stacks are ordered by size.
 
+### Game Preview
+![222](https://user-images.githubusercontent.com/36839962/64559349-62301300-d346-11e9-813a-86fa997aa848.png)
+
 
