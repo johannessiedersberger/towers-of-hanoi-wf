@@ -6,5 +6,4 @@
 
 - Every turn, the top disc of any base can be placed on top of one of the other two bases, if there is not already a smaller disc there. That means that at each point of the game, the slices on the stacks are ordered by size.
 
-### Game State
-![ManualScrobble](https://johannessiedersberger.com/wp-content/uploads/2018/08/towserOfHanoi-1024x472.png)
+
